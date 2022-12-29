@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 129214351
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c222a74d11894703d675267cb6689efc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/LuaFramework/Examples/Textures/Prompt/1.png
+Dependencies: []
